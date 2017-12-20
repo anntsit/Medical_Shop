@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKeyValueOfguidPurchaseZosYOjBW xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+  <KeyValueOfguidPurchaseZosYOjBW>
+    <Key>75dc6b9d-9c9e-4a83-80fd-d616a2aff14e</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MedicaleShop.Core.Classes">
+      <Id xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">75dc6b9d-9c9e-4a83-80fd-d616a2aff14e</Id>
+      <Name xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core"></Name>
+      <d3p1:Count>2</d3p1:Count>
+      <d3p1:_medicinId>64153c59-a8f6-4a81-b516-b4c19c53c87b</d3p1:_medicinId>
+      <d3p1:_orderId>b09a12e4-483b-4b96-af1a-03b60bdb2136</d3p1:_orderId>
+    </Value>
+  </KeyValueOfguidPurchaseZosYOjBW>
+  <KeyValueOfguidPurchaseZosYOjBW>
+    <Key>b2e850e4-a409-4028-8553-46b0e55e9da3</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MedicaleShop.Core.Classes">
+      <Id xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">b2e850e4-a409-4028-8553-46b0e55e9da3</Id>
+      <Name xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core"></Name>
+      <d3p1:Count>1</d3p1:Count>
+      <d3p1:_medicinId>a1408fe0-a8a6-4e9b-9255-155ad9c90285</d3p1:_medicinId>
+      <d3p1:_orderId>b09a12e4-483b-4b96-af1a-03b60bdb2136</d3p1:_orderId>
+    </Value>
+  </KeyValueOfguidPurchaseZosYOjBW>
+</ArrayOfKeyValueOfguidPurchaseZosYOjBW>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKeyValueOfguidOrderZosYOjBW xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+  <KeyValueOfguidOrderZosYOjBW>
+    <Key>b09a12e4-483b-4b96-af1a-03b60bdb2136</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MedicaleShop.Core.Classes">
+      <Id xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">b09a12e4-483b-4b96-af1a-03b60bdb2136</Id>
+      <Name xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">Замовлення №1</Name>
+      <d3p1:CloseOrderTime>2017-05-18T19:28:45.155423+03:00</d3p1:CloseOrderTime>
+      <d3p1:CreateTime>2017-05-18T18:39:34.093632+03:00</d3p1:CreateTime>
+      <d3p1:Discount>0</d3p1:Discount>
+      <d3p1:Medicines>
+        <KeyValueOfMedicinintACG8c8qI>
+          <Key>
+            <Id xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">64153c59-a8f6-4a81-b516-b4c19c53c87b</Id>
+            <Name xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">24324</Name>
+            <d3p1:Appointment>ergger</d3p1:Appointment>
+            <d3p1:CountOfActiveSubstance>234</d3p1:CountOfActiveSubstance>
+            <d3p1:Instruction i:nil="true" />
+            <d3p1:NeedRecipe>false</d3p1:NeedRecipe>
+            <d3p1:Packing>234</d3p1:Packing>
+            <d3p1:Price>234</d3p1:Price>
+            <d3p1:Producer>42</d3p1:Producer>
+            <d3p1:UnitActiveSubstance>мг</d3p1:UnitActiveSubstance>
+          </Key>
+          <Value>2</Value>
+        </KeyValueOfMedicinintACG8c8qI>
+        <KeyValueOfMedicinintACG8c8qI>
+          <Key>
+            <Id xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">a1408fe0-a8a6-4e9b-9255-155ad9c90285</Id>
+            <Name xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">1231</Name>
+            <d3p1:Appointment>sbd</d3p1:Appointment>
+            <d3p1:CountOfActiveSubstance>44</d3p1:CountOfActiveSubstance>
+            <d3p1:Instruction i:nil="true" />
+            <d3p1:NeedRecipe>true</d3p1:NeedRecipe>
+            <d3p1:Packing>21</d3p1:Packing>
+            <d3p1:Price>33</d3p1:Price>
+            <d3p1:Producer>312</d3p1:Producer>
+            <d3p1:UnitActiveSubstance>мг</d3p1:UnitActiveSubstance>
+          </Key>
+          <Value>1</Value>
+        </KeyValueOfMedicinintACG8c8qI>
+      </d3p1:Medicines>
+      <d3p1:NeedRecipe>false</d3p1:NeedRecipe>
+      <d3p1:OrderId>1</d3p1:OrderId>
+      <d3p1:Price>0</d3p1:Price>
+      <d3p1:ReasonRejection></d3p1:ReasonRejection>
+      <d3p1:Status>Deflected</d3p1:Status>
+      <d3p1:_clientId>758d960c-84af-41dd-a4bf-4d94d91c3b01</d3p1:_clientId>
+      <d3p1:_pharmacyId>866dd808-0bf0-4f11-b445-1f14fe807665</d3p1:_pharmacyId>
+    </Value>
+  </KeyValueOfguidOrderZosYOjBW>
+</ArrayOfKeyValueOfguidOrderZosYOjBW>

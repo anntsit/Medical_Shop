@@ -1,0 +1,13 @@
+C:\CHILDRENS\My\CDDisk\Source\MedicaleShop\bin\Release\MedicaleShop.exe.config
+C:\CHILDRENS\My\CDDisk\Source\MedicaleShop\bin\Release\MedicaleShop.exe
+C:\CHILDRENS\My\CDDisk\Source\MedicaleShop\bin\Release\MedicaleShop.pdb
+C:\CHILDRENS\My\CDDisk\Source\MedicaleShop\obj\Release\MedicaleShop.Forms.Basket.resources
+C:\CHILDRENS\My\CDDisk\Source\MedicaleShop\obj\Release\MedicaleShop.Forms.Main.resources
+C:\CHILDRENS\My\CDDisk\Source\MedicaleShop\obj\Release\MedicaleShop.Forms.ReasonRejection.resources
+C:\CHILDRENS\My\CDDisk\Source\MedicaleShop\obj\Release\MedicaleShop.Forms.Register.resources
+C:\CHILDRENS\My\CDDisk\Source\MedicaleShop\obj\Release\MedicaleShop.Forms.Login.resources
+C:\CHILDRENS\My\CDDisk\Source\MedicaleShop\obj\Release\MedicaleShop.Forms.Selector.resources
+C:\CHILDRENS\My\CDDisk\Source\MedicaleShop\obj\Release\MedicaleShop.Properties.Resources.resources
+C:\CHILDRENS\My\CDDisk\Source\MedicaleShop\obj\Release\MedicaleShop.csproj.GenerateResource.Cache
+C:\CHILDRENS\My\CDDisk\Source\MedicaleShop\obj\Release\MedicaleShop.exe
+C:\CHILDRENS\My\CDDisk\Source\MedicaleShop\obj\Release\MedicaleShop.pdb

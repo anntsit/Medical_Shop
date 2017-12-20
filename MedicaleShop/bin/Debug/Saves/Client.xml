@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKeyValueOfguidClientZosYOjBW xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+  <KeyValueOfguidClientZosYOjBW>
+    <Key>953f897b-1580-4aa8-9aac-ba011ca3e973</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MedicaleShop.Core.Classes">
+      <Id xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">953f897b-1580-4aa8-9aac-ba011ca3e973</Id>
+      <Name xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">Admin Admin</Name>
+      <d3p1:Discount>0</d3p1:Discount>
+      <d3p1:IsAdmin>true</d3p1:IsAdmin>
+      <d3p1:Login>admin</d3p1:Login>
+      <d3p1:Password>21232f297a57a5a743894a0e4a801fc3</d3p1:Password>
+      <d3p1:Phote>+38(000)-(000)-(0000)</d3p1:Phote>
+    </Value>
+  </KeyValueOfguidClientZosYOjBW>
+  <KeyValueOfguidClientZosYOjBW>
+    <Key>bcc7bdca-51c3-4902-8ca8-39a561d37f0e</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MedicaleShop.Core.Classes">
+      <Id xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">bcc7bdca-51c3-4902-8ca8-39a561d37f0e</Id>
+      <Name xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">qwe qwe</Name>
+      <d3p1:Discount>0</d3p1:Discount>
+      <d3p1:IsAdmin>false</d3p1:IsAdmin>
+      <d3p1:Login>qwe</d3p1:Login>
+      <d3p1:Password>76d80224611fc919a5d54f0ff9fba446</d3p1:Password>
+      <d3p1:Phote>+38(777)-(777)-(7777)</d3p1:Phote>
+    </Value>
+  </KeyValueOfguidClientZosYOjBW>
+  <KeyValueOfguidClientZosYOjBW>
+    <Key>758d960c-84af-41dd-a4bf-4d94d91c3b01</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MedicaleShop.Core.Classes">
+      <Id xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">758d960c-84af-41dd-a4bf-4d94d91c3b01</Id>
+      <Name xmlns="http://schemas.datacontract.org/2004/07/MedicaleShop.Core">tss ann</Name>
+      <d3p1:Discount>5</d3p1:Discount>
+      <d3p1:IsAdmin>false</d3p1:IsAdmin>
+      <d3p1:Login>antsit</d3p1:Login>
+      <d3p1:Password>62bbdf04f51879afe81088567a351d1f</d3p1:Password>
+      <d3p1:Phote>+38(095)-(105)-(5327)</d3p1:Phote>
+    </Value>
+  </KeyValueOfguidClientZosYOjBW>
+</ArrayOfKeyValueOfguidClientZosYOjBW>
